@@ -3,3 +3,4 @@
 .colab-mcp-logs/
 __pycache__/
 *.pyc
+.venv_a4/
