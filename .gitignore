@@ -1,0 +1,5 @@
+.DS_Store
+.nb-venv/
+.colab-mcp-logs/
+__pycache__/
+*.pyc
