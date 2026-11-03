@@ -1,5 +1,7 @@
 # Assignment 4 — Fine-Tuning (MBAX 6418)
 
+**Author: Ethan McGarvey** · etmc7689@colorado.edu
+
 Amazon Reviews '23, **Gift Cards** category — 3-class sentiment classification
 (`POSITIVE` / `NEUTRAL` / `NEGATIVE`) on the same 300 test reviews across three approaches:
 zero-shot prompting, few-shot prompting (6 examples), and a QLoRA fine-tune.
