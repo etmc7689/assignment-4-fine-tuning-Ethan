@@ -1,0 +1,301 @@
+original_row,filtered_index,title,text,reference_label,prediction,raw_response
+30255,30000,Five Stars,Loved it,POSITIVE,POSITIVE,POSITIVE
+30256,30001,Good gift,Always good,POSITIVE,POSITIVE,POSITIVE
+30257,30002,Perfect,Perfect,POSITIVE,POSITIVE,POSITIVE
+30258,30003,As pictured,As pictured,POSITIVE,NEUTRAL,NEUTRAL
+30259,30004,🎁,Easy gift.  Person has a wide variety to choose.  They are able to get what they want.,POSITIVE,POSITIVE,POSITIVE
+30262,30007,Great,Gave it as a gift,POSITIVE,POSITIVE,POSITIVE
+30264,30009,Easy Grad gift!,The Graduates thought that they were very cute!,POSITIVE,POSITIVE,POSITIVE
+30265,30010,Love e Fazoli’s!,What’s not to like?,POSITIVE,POSITIVE,POSITIVE
+30266,30011,Gift,Gift,POSITIVE,NEUTRAL,NEUTRAL
+30267,30012,Nice gift,Gift,POSITIVE,POSITIVE,POSITIVE
+30268,30013,Nicely packaged,This was a gift and well received,POSITIVE,POSITIVE,POSITIVE
+30270,30015,Works as intended,Gift card works as intended.  Would buy again.,POSITIVE,POSITIVE,POSITIVE
+30271,30016,Five Stars,Very good,POSITIVE,POSITIVE,POSITIVE
+30272,30017,Good,Good,POSITIVE,NEUTRAL,NEUTRAL
+30273,30018,Excellent generic design gift cards,Excellent generic design gift cards for any occasions. I end up ordering more than 10 a year between both physical and e-gift card options,POSITIVE,POSITIVE,POSITIVE
+30274,30019,Excellent Product,Excellent Product,POSITIVE,POSITIVE,POSITIVE
+30275,30020,Five Stars,Excelente,POSITIVE,POSITIVE,POSITIVE
+30276,30021,Can load any amount,Like that you can load any amount there's no minimum,POSITIVE,POSITIVE,POSITIVE
+30277,30022,Great gift,Like,POSITIVE,POSITIVE,POSITIVE
+30278,30023,Great chicken strips!,Best chicken strips ever! I just wish they had more locations!,POSITIVE,POSITIVE,POSITIVE
+30279,30024,gift card,gift card,POSITIVE,NEUTRAL,NEUTRAL
+30280,30025,amazing. worth $50 bucks...,its a gift card.... Really??? a review???,POSITIVE,POSITIVE,POSITIVE
+30281,30026,Five Stars,worth it,POSITIVE,POSITIVE,POSITIVE
+30282,30027,Easy to purchase…,So easy to purchase. Multiple $ amounts makes gift giving easier than ever. Redeem for always quality products.,POSITIVE,POSITIVE,POSITIVE
+30283,30028,Gifted out,Satisfied,POSITIVE,NEUTRAL,NEUTRAL
+30284,30029,Card,Great value,POSITIVE,POSITIVE,POSITIVE
+30286,30031,Perfect my family’s favorite ❤️,Great gift item,POSITIVE,POSITIVE,POSITIVE
+30287,30032,Perfect,Perfect gift for the difficult gift receivers on your list,POSITIVE,POSITIVE,POSITIVE
+30288,30033,Great idea,Perfect,POSITIVE,POSITIVE,POSITIVE
+30290,30034,"If you hate ads and like Spotify, get it!",Good gift for your music loving friends!,POSITIVE,POSITIVE,POSITIVE
+30291,30035,Five Stars,gift,POSITIVE,POSITIVE,POSITIVE
+30292,30036,Five Stars,purchased as Christmas gift so haven't given yet,POSITIVE,POSITIVE,POSITIVE
+30293,30037,Yes,Great,POSITIVE,POSITIVE,POSITIVE
+30294,30038,It's a gift card in a nice tin.,Its a gift card in a nice tin.,POSITIVE,NEUTRAL,NEUTRAL
+30295,30039,Looks nice and works as usual,Quick shipping! Looks nice and works as usual.,POSITIVE,POSITIVE,POSITIVE
+30296,30040,Amazon gift card in holiday gift box,Convenient way to give a gift for people who are hard to buy for.,POSITIVE,POSITIVE,POSITIVE
+30297,30041,⭐️⭐️⭐️⭐️⭐️,Perfect Christmas gift to a couple that loves the Movie Tavern!,POSITIVE,POSITIVE,POSITIVE
+30298,30042,Great Way To Gift Card,Adorable!,POSITIVE,POSITIVE,POSITIVE
+30299,30043,Five Stars,Got it in a day!,POSITIVE,POSITIVE,POSITIVE
+30300,30044,Five Stars,helped during christmas,POSITIVE,POSITIVE,POSITIVE
+30301,30045,Five Stars,great way to pay for a meal,POSITIVE,POSITIVE,POSITIVE
+30302,30046,Perfect Gift,"My graanddaughter has an aquarium and the upkeep (food, and whatever else) takes some money from her meager earnings. The gift card will help with that.",POSITIVE,POSITIVE,POSITIVE
+30304,30048,Five Stars,Perfect for gifts.,POSITIVE,POSITIVE,POSITIVE
+30305,30049,she loved it,great birthday gift for granddaughter.,POSITIVE,POSITIVE,POSITIVE
+30306,30050,Who doesn’t like gift cards?,Find the perfect gift for yourself online!,POSITIVE,POSITIVE,POSITIVE
+30307,30051,Five Stars,"Convenient for anything, Christmas​, Birthdays, etc.",POSITIVE,POSITIVE,POSITIVE
+30308,30052,very attractive!,"My daughter love the gift card, and she though the gift card holder was elegant.",POSITIVE,POSITIVE,POSITIVE
+30310,30054,... was a Christmas gift for our son he was overjoyed to receive it,this was a Christmas gift for our son he was overjoyed to receive it,POSITIVE,POSITIVE,POSITIVE
+30311,30055,always the best,everyone loves loves getting gifts cards especially Amazon,POSITIVE,POSITIVE,POSITIVE
+30312,30056,works every time,easiest and best gift ever as everyone uses Amazon ! fast delivery too,POSITIVE,POSITIVE,POSITIVE
+30313,30057,Cute,Cute box for a gift for a young person,POSITIVE,POSITIVE,POSITIVE
+30314,30058,Five Stars,friend I gave it to loved it.,POSITIVE,POSITIVE,POSITIVE
+30315,30059,Great Gift Idea,Always a good option for gift giving.,POSITIVE,POSITIVE,POSITIVE
+30316,30060,"Always goes over big with my grandson, he gets ...","Always goes over big with my grandson, he gets on Amazon right away and spends it all on what he wants!",POSITIVE,POSITIVE,POSITIVE
+30317,30061,If you don’t want to use a gift card immediately don’t add it until you want to use the whole thing.,This was my granddaughter’s gift card. Amazon insisted on taking money from it for my purchases and I didn’t catch it one time. I called them almost immediately and they were on able to reverse it. What I had to do was use the card for my purchase and then reload the gift card for my granddaughter. It was pretty easy to do.,POSITIVE,NEUTRAL,NEUTRAL
+30318,30062,Love this feature,Love this feature.  My credit card company allows me to create a shop safe one use only credit card number for on-line or phone purchases.  I use this to reload my Amazon Gift Card balance.  This way my real credit card number is never entered into the system so if Amazon ever gets hacked the only number in the system is one that's no longer valid for any other purchases.,POSITIVE,POSITIVE,POSITIVE
+30319,30063,Five Stars,Easy and fast.  Loved it.,POSITIVE,POSITIVE,POSITIVE
+30320,30064,It's a gift card,It's a gift card.  Does what gift cards are supposed to do.,POSITIVE,NEUTRAL,NEUTRAL
+30321,30065,Five Stars,great bonus value,POSITIVE,POSITIVE,POSITIVE
+30322,30066,Great!,Love getting guest cards from Amazon for gifts! Then the receiver can buy what they want!,POSITIVE,POSITIVE,POSITIVE
+30323,30067,Five Stars,"excellent price, prodict and service",POSITIVE,POSITIVE,POSITIVE
+30324,30068,Five Stars,great,POSITIVE,POSITIVE,POSITIVE
+30325,30069,A very neat gift wrap,A cute substitute for a birthday card.,POSITIVE,POSITIVE,POSITIVE
+30326,30070,Best Gift net to my Kindle & Kindle Fire,"My son's  girl has bought me gift cards from Amazon, she also bought my Kindle Fire with my son for me, so the gift card was amazing, I choose to download a lot of music for my cloud. The 1st gift card I cought books and just love the convience of getting what I want with the gift card. Would be a great gift for everyone.<br /> S.L. Kane",POSITIVE,POSITIVE,POSITIVE
+30327,30071,Giftable,Always satisfied,POSITIVE,POSITIVE,POSITIVE
+30328,30072,Five Stars,Love your packaging.  Very festive .,POSITIVE,POSITIVE,POSITIVE
+30329,30073,Five Stars,Great gift idea!,POSITIVE,POSITIVE,POSITIVE
+30330,30074,whats' to say. It loaded quickly and acturately.,whats' to say.  It loaded quickly and acturately.,POSITIVE,POSITIVE,POSITIVE
+30331,30075,Five Stars,easy way to gift shop.,POSITIVE,POSITIVE,POSITIVE
+30332,30076,Nice,Packaged nice!,POSITIVE,POSITIVE,POSITIVE
+30333,30077,Five Stars,Enjoy Whole Foods,POSITIVE,POSITIVE,POSITIVE
+30334,30078,"Exactly as described, for better or worse.","These $15 gift cards came with $15 loaded onto them. While I would have preferred more, I only paid $15 each so I can't complain. In a perfect world, they each would have had $1,000,000,000 on them. Then I would have purchased Amazon and instituted a sixth star for reviews that only I could use. Then I would have to purchase Turbotax from Amazon (I mean, I own the company, I'd probably just have my secretary bring it to me) so I could figure out all my tax issues from receiving $2,999,999,955 in income. My basis was $45 so don't try to round up to $3B, IRS. I guess that would equal a lot of tax liability so perhaps I'm glad they just had $15 on them. Yeah, my life is much better without all the hassles of that money. Mo' Money, Mo' Problems.",POSITIVE,NEUTRAL,NEUTRAL
+30335,30079,Simple and Easy,No issues just downloaded a credit to my account and I was all set,POSITIVE,POSITIVE,POSITIVE
+30336,30080,"A memorable ""Snowflake"" ....",Love the Snowflake Tin !,POSITIVE,POSITIVE,POSITIVE
+30337,30081,A Gift,She loved the gift.,POSITIVE,POSITIVE,POSITIVE
+30338,30082,As Described,Purchased as gift and receiver was very pleased.,POSITIVE,POSITIVE,POSITIVE
+30339,30083,As described,Christmas gift and receiver loved it.,POSITIVE,POSITIVE,POSITIVE
+30340,30084,As described,Christmas gift and receiver loved it.,POSITIVE,POSITIVE,POSITIVE
+30341,30085,Five Stars,Holiday gift for special someone and they loved it.,POSITIVE,POSITIVE,POSITIVE
+30342,30086,Five Stars,Purchased as holiday gift for family.,POSITIVE,POSITIVE,POSITIVE
+30343,30087,Wonderful item.,Purchased as holiday gift. Wonderful item.,POSITIVE,POSITIVE,POSITIVE
+30344,30088,Wonderful item.,Purchased as holiday gift. Wonderful item.,POSITIVE,POSITIVE,POSITIVE
+30345,30089,Gift card,Amazon carries pretty much everything that you need. As is described; nothing more to say. Will use it for what intended for.,POSITIVE,NEUTRAL,NEUTRAL
+30346,30090,She loved it!,Given as Christmas gift. She loved it!,POSITIVE,POSITIVE,POSITIVE
+30347,30091,Five Stars,Love the movies,POSITIVE,POSITIVE,POSITIVE
+30348,30092,Five Stars,Love this place,POSITIVE,POSITIVE,POSITIVE
+30349,30093,Five Stars,Love the restaurant,POSITIVE,POSITIVE,POSITIVE
+30350,30094,Gift,Holiday gift,POSITIVE,NEUTRAL,NEUTRAL
+30351,30095,Love,Yes,POSITIVE,POSITIVE,POSITIVE
+30352,30096,Holiday gift,gift and loved it,POSITIVE,POSITIVE,POSITIVE
+30353,30097,SB Fan,what's not to love,POSITIVE,POSITIVE,POSITIVE
+30354,30098,gift card for baby shower,it was a gift for baby was well received from receipent,POSITIVE,POSITIVE,POSITIVE
+30355,30099,Five Stars,gift,POSITIVE,POSITIVE,POSITIVE
+30356,30100,Five Stars,gift,POSITIVE,POSITIVE,POSITIVE
+30357,30101,Five Stars,good,POSITIVE,POSITIVE,POSITIVE
+30359,30103,Great gift,All went well with delivery and it looked very elegant in the black envelope. It was a much appreciated gift,POSITIVE,POSITIVE,POSITIVE
+30360,30104,Variety,"How easy it was to place my order, the different styles were great.",POSITIVE,POSITIVE,POSITIVE
+30361,30105,Availability of funds,Very easy and simple to load and use.,POSITIVE,POSITIVE,POSITIVE
+30362,30106,Four Stars,"great, no fuss",POSITIVE,POSITIVE,POSITIVE
+30363,30107,Easy and Best Gifts-Holidays and all year,These gift cards are the best way to shop anytime of the year. Amazon has something for everyone and the person can pick what they want or need. They are always on time and everyone I have send one to loves the gift. They do need to add a TO/From line--good luck and happy shopping,POSITIVE,POSITIVE,POSITIVE
+30263,30008,Pop-up Didn’t Pop-up,"I purchased this pop-up gift box last year and thought it was so cute, so I bought another one this year. Unfortunately, the pop-up insert was damaged and didn’t pop up. It was coming out and I had to tape it back in, plus it was bent. I’m sure my son won’t care as it’s what the box is holding that is the actual gift, but *I* care. Just disappointed it arrived damage.",NEUTRAL,NEUTRAL,NEUTRAL
+30269,30014,Otherwise it's nice and convenient to use,I never got the $5 that was advertised for loading $100 on my card though.  Otherwise it's nice and convenient to use.,NEUTRAL,NEUTRAL,NEUTRAL
+30285,30030,Ok but I won't do it again,"I got the first $10, but that is a one time thing. It showed me another offer for another $10 off, saying my item would be $xx.×× instead of $Xx.xx . So I bought another and didn't get that again. I see no further benefit to doing this after the $10 savings when I already get points.",NEUTRAL,NEUTRAL,NEUTRAL
+30309,30053,"Really Cute, but if mailing, bulky and heavy. Extra Postage if going in a CARD to be mailed","Santa pops up out of a chimney, and this makes it a bit too bulky, heavy to mail..  Would be a great stocking stuffer, but if I was to mail, I'd do a card with it, in a small Jiffy/padded envelope. Otherwise, would most likely get stuck in Post Office<br />machinery.  Saving this one for next year, to pass on to a young niece, put in her stocking.",NEUTRAL,NEUTRAL,NEUTRAL
+30358,30102,Three Stars,Santa tin arrived bent which made it difficult to open.,NEUTRAL,NEUTRAL,NEUTRAL
+30399,30143,Three Stars,doesn't seem to be as advertised.,NEUTRAL,NEUTRAL,NEUTRAL
+30514,30257,All ready to give as gift!,They are for my niece and nephew so not sure how easy to set up. Just know the packages were really cute the cards came in.,NEUTRAL,POSITIVE,POSITIVE
+30547,30290,$50.00 gift card purchase was supposed to give me a free Amazon credit of $ 10 .00 more dollars . Did not happen ?,I purchased this gift card with the understanding that I would receive a credit on my Amazon account for an additional $ 10.00 free credit . That did not happen and I do not know why ?,NEUTRAL,NEGATIVE,NEGATIVE
+30610,30351,meh,meh,NEUTRAL,NEUTRAL,NEUTRAL
+30640,30381,Delivered quickly poorly printed,Quick delivery but the accompanying card is very cheap and my printed card lines all through the message.. not good,NEUTRAL,NEUTRAL,NEUTRAL
+30892,30630,Nice but not easy,I couldn't use a visa gift card until I contacted Amazon and instructed to purchase their card in order to use mine. Ridiculous,NEUTRAL,NEUTRAL,NEUTRAL
+30917,30654,Three Stars,Nice box.,NEUTRAL,NEUTRAL,NEUTRAL
+30934,30671,No amounts on the cards!!!!  Pain to sort if you get more than one amount,"Amazon gift cards are convenient as they sell everything, however, these cards don't have amounts written on them, so if you get a bunch at once, as I did this Christmas, you have to come back to your order and match the card serial to the gift card amount.  It is annoying.  Cards at the market have the amount written on them.  Next time I will just do that.",NEUTRAL,NEUTRAL,NEUTRAL
+31038,30773,Valid in a lot of places,It's a great idea but the 6 charge is a little extreme,NEUTRAL,NEUTRAL,NEUTRAL
+31100,30834,??,Not sure how this can benefit me.,NEUTRAL,NEGATIVE,NEGATIVE
+31115,30849,It's a gift card...,It's a gift card. What kind of review can I actually give? I liked receiving an extra $10 credit for purchasing it. My daughter liked the tin.,NEUTRAL,NEUTRAL,NEUTRAL
+31203,30934,You'll need different envelopes,"The envelopes that came with these gift cards are too small, so I ended up having to take them out of the holiday card and using cards/envelopes I had laying around.",NEUTRAL,NEUTRAL,NEUTRAL
+31215,30946,Messed up,One of the cards I ordered didn’t have the hello baby on it and the other ones bow was completely messed up.,NEUTRAL,NEGATIVE,NEGATIVE
+31294,31025,Not as advertised in promo,Didn't get the discount advertised in the promo.,NEUTRAL,NEGATIVE,NEGATIVE
+31365,31096,Not impressed w Xmas card that came w gift cards,I chose a Xmas card that could be used for my grandkids. I got an entirely different card more for an adult and religious. I replaced with my own Xmas card and discarded yours.,NEUTRAL,NEGATIVE,NEGATIVE
+31369,31100,Not sure how to get the $10 bonus as advertised?,When I got this I was supposed to get a $10 credit or something.  Not sure how to see if that ever happened?  Would love some feedback on this.<br /><br />Otherwise what's not to like about an Amazon card?  It is for my kid.,NEUTRAL,NEUTRAL,NEUTRAL
+31433,31164,Three Stars,good,NEUTRAL,NEUTRAL,NEUTRAL
+31603,31328,Preloading Card,"I don't really see any particular advantage for me by preloading the card, for automatic loading as needed accomplishes the same thing.  EXCEPT for the bonus that was offered!",NEUTRAL,NEUTRAL,NEUTRAL
+31633,31357,Missing Information!,Was happy with the delivery but very disappointed in that there was no gift note included as requested. Very unfortunate..,NEUTRAL,NEUTRAL,NEUTRAL
+31637,31361,Works,It’s ok,NEUTRAL,NEUTRAL,NEUTRAL
+31882,31604,Nice,Its a GIFT CARD--- what can you say,NEUTRAL,NEUTRAL,NEUTRAL
+31891,31613,Three Stars,Gift.,NEUTRAL,NEUTRAL,NEUTRAL
+31892,31614,Three Stars,Gift.,NEUTRAL,NEUTRAL,NEUTRAL
+32001,31722,I added $$ to my gift card,"I added $$ to my gift card during the prime week - unfortunately I did not read the fine print that said I had to use a code to get the additional $12 when adding $50 to a gift card.  But really - I have a prime account, the offer was for prime users - ""buy/add $50 to a gift card, it becomes worth $65"" - seriously - I did not expect to jump through hoops - my bad totally for not reading - their bad for not seeing this pitfall.. not whining, really - it is a smack upside the head to read it all next time!!! lol",NEUTRAL,NEUTRAL,NEUTRAL
+32033,31754,Three Stars,Super cute but came bent and wripped. I would hope they are not all like that.,NEUTRAL,NEUTRAL,NEUTRAL
+32046,31767,Great product.,Been using this product for about 20 years. This packaging was done poorly and it leaked a little.,NEUTRAL,NEUTRAL,NEUTRAL
+32064,31785,Okay 👌,Okay 👌,NEUTRAL,NEUTRAL,NEUTRAL
+32065,31786,Okay 👌,Okay 👌,NEUTRAL,NEUTRAL,NEUTRAL
+32070,31791,Three Stars,My niece love it,NEUTRAL,NEUTRAL,NEUTRAL
+32152,31872,Giftable is the problem,the giftable issue can become a potential issue if your account is accessed illegally. Someone can gift any amount using this function.,NEUTRAL,NEUTRAL,NEUTRAL
+32157,31877,Three Stars,"Gift card worked perfectly, food was and service was nasty though.",NEUTRAL,NEUTRAL,NEUTRAL
+32205,31925,Convenient way to buy,Convenient way to pay,NEUTRAL,POSITIVE,POSITIVE
+32216,31936,practical,it's ok.....,NEUTRAL,NEUTRAL,NEUTRAL
+32260,31980,excelente,siempre me resulta de ayuda para las compras de mis productos en Amazon,NEUTRAL,POSITIVE,POSITIVE
+32269,31989,No amount shown nor personalized message,The amount was not indicated on the card or box.  My personal message was not.included either.,NEUTRAL,NEUTRAL,NEUTRAL
+32365,32085,👍,🤷‍♀️,NEUTRAL,POSITIVE,POSITIVE
+32385,32105,Notice is deceiving,"I uploaded $100 to my gift card 3 times, because each time I did, I got a notice that I would get a $10 bonus.  I received a bonus for only the first reload.  So I was deceived.",NEUTRAL,NEGATIVE,NEGATIVE
+32429,32149,Eh it’s cute but broke after 1 minute.,"Super cute, after opening it 2 times to show my kids it broke and wouldn’t open or close the correct way. Couldn’t even use it for the gift. Disappointed",NEUTRAL,NEUTRAL,NEUTRAL
+32434,32154,"Standard gift card - works just fine,  Prime Day deal not so great","I ordered a gift card on prime day, perfect timing for October and November birthdays. For Prime Day the deal was spend $40 + , receive $10 credit. Okay no problem. I have the Amazon email sharing my order received and now I should have a credit. I do not have the credit, and cannot connect with Amazon customer service to rectify this and other questions I have regarding a few other orders. I don't have time for a phone call currently to working from home, kids at home with school online, and later taking care of evening tasks and myself needing sleep. I would appreciate assistance from Amazon that does not take me on rabbit hole hunts on the website, leading me down a path to customer service and ending up with Oops! Problem, but look at the Dogs of Amazon and return to main page of Amazon. I thought this was a Prime Day problem, gave the website grace. Tried yet again, two weeks later and repeat. Repeat again. Beyond frustrating and I feel crazy now.<br /><br />If I can't get an answer from Amazon, shame on me I won't order on Prime Day again.",NEUTRAL,NEGATIVE,NEGATIVE
+32485,32205,Box was crushed in shipping,The cute box was crushed in shipping. Sad because it is really cute but I will probably just put the gift card into a card instead.,NEUTRAL,NEUTRAL,NEUTRAL
+32491,32211,Three Stars,"Everyting else is good, except for the giftbox, which seems to be on shelf for years.",NEUTRAL,NEUTRAL,NEUTRAL
+32534,32252,EAST COAST ONLY OPERATION.,"Nothing wrong with that, just thought it needed to be stated where people could easily see it. Lightning deals on something regional might trick the less attentive into wasting their hard-earned FRNs on something they will never use. Neutral 3-star rating given.",NEUTRAL,NEUTRAL,NEUTRAL
+32540,32258,Great Buy,I like it just wish I received cash back or discounts,NEUTRAL,NEUTRAL,NEUTRAL
+32638,32355,Card Box Crushed,"If Amazon is going to go through the trouble of creating a card box, perhaps they should ship it in a way that does not get crushed like a tin can by the postal service. A gift card is a gift card, but my husband had to struggle to open his father's day gift because the card box was crushed. Disappointed!",NEUTRAL,NEGATIVE,NEGATIVE
+32685,32402,Faster Reloading,"If you're into loading Amazon Gift Cards at a checkout, this app is for you. I used it once. I personally would rather just use the normal Amazon web site for this purpose.",NEUTRAL,NEUTRAL,NEUTRAL
+32736,32453,There is nothing wrong about this giftcard to review. ...,There is nothing wrong about this giftcard to review. But I kept a message in the Gift options and it was not sent along with the gift card!,NEUTRAL,NEUTRAL,NEUTRAL
+32761,32478,I bought it as a gift,I bought it as a gift,NEUTRAL,NEUTRAL,NEUTRAL
+32780,32497,Check & double check before pushing buttons,Can be very confusing if your new at this. You can put the money on wrong card and then you think you are taking the money from one account just to find later it was taken out of the wrong account.,NEUTRAL,NEUTRAL,NEUTRAL
+32805,32521,Don't try using discount promotions,A gift card - what else can I say - I was disappointed because there was a 20% of promotion and when I went to apply the discount code - I was taken to another site and it wouldn't accept my login - UGH!,NEUTRAL,NEGATIVE,NEGATIVE
+32867,32583,Collector Tin would have been cute,Neat little idea to make collectible tins to give the cards in. Just because the tin looks like an envelope though doesn’t mean you should put it or any tin in one when sending them out though. You need to send them in better protection to prevent dents and bends like mine had.,NEUTRAL,NEUTRAL,NEUTRAL
+32924,32640,Not great,Not great,NEUTRAL,NEGATIVE,NEGATIVE
+33002,32718,Three Stars,Could not find a way to add a gift note to the box mailed to another person.,NEUTRAL,NEUTRAL,NEUTRAL
+33126,32842,Bought Just for the Gift Card,"I am not a huge fan of the inside of the cards, so I ended up buying a separate card for the gift card.",NEUTRAL,NEUTRAL,NEUTRAL
+33176,32891,Regular,Regular,NEUTRAL,NEUTRAL,NEUTRAL
+33186,32901,Three Stars,Feels like there was only like 10 dollars on this card...feel like I got ripped off..never again,NEUTRAL,NEUTRAL,NEUTRAL
+33227,32942,Great for people who use amazon A LOT,I didn't even mean to load money onto it idk how it happened but very usfull if you buy lots on amazon ig,NEUTRAL,POSITIVE,POSITIVE
+33386,33100,No place for amount,"Cute concept, but there is no place to put the amount of this gift card.",NEUTRAL,NEUTRAL,NEUTRAL
+33495,33207,dont uderstand,why would i reload if i get no perks for doing so,NEUTRAL,NEGATIVE,NEGATIVE
+33774,33485,Delayed,"I was disappointed it took over a week to receive them,  other big box items only take 2-3 days if that long.  The gift cards themselves are gift cards, what can I say.",NEUTRAL,NEUTRAL,NEUTRAL
+33784,33495,Three Stars,its a pain to use if traveling,NEUTRAL,NEUTRAL,NEUTRAL
+33886,33595,Lost $100.00,It did not work. I lost the money. Lost,NEUTRAL,NEGATIVE,NEGATIVE
+33910,33619,Amazon Gift Card inside of a Gift Tag,"It's nice, but the style itself is tacky and cheap; was expecting a better quality of a Gift Tag.",NEUTRAL,NEUTRAL,NEUTRAL
+33921,33630,ok,didn't buy,NEUTRAL,NEGATIVE,NEGATIVE
+33924,33633,Had a nice birthday message to be included,Giving this 3 stars because it was delivered on time. I had a message that was suppose to be in the invoice at least but just spoke with  my son and he has no idea who the gift card was from. He thought Amazon had sent him the birthday gift card. Had a nice birthday message to be included. Next time will just purchase one myself and include with card. Don't purchase if you want the recipient to know who it's from.,NEUTRAL,NEUTRAL,NEUTRAL
+34073,33782,Gift card did not work!,"I ordered 2 $50 Whole foods gift cards for $100, and one of the cards didn't<br />work in the store!  Can you imagine that, how embarrassing!",NEUTRAL,NEGATIVE,NEGATIVE
+34087,33796,Three Stars,Gave as gifts hoping they work for purchases,NEUTRAL,NEUTRAL,NEUTRAL
+34154,33863,Three Stars,"Like the fact of ordering gift card,didn't like that it was left on doorstep outside daughter's apartment",NEUTRAL,NEUTRAL,NEUTRAL
+34260,33969,Missing front ornament.,"The box was missing the reindeer ornament from the front of it, which was the entire purpose of buying this specific box for the gift card. The reindeer was not in the envelope it delivered in which means it was packed at the facility this way.",NEUTRAL,NEGATIVE,NEGATIVE
+34273,33982,Not One Day Delivery,"If you need a last minute gift, don't  order this expecting it to be delivered in One Day as indicated.",NEUTRAL,NEGATIVE,NEGATIVE
+34274,33983,Not One Day Delivery,"If you need a last minute gift, don't order this expecting it to be delivered in One Day as indicated.",NEUTRAL,NEGATIVE,NEGATIVE
+34319,34028,Nice Card - But company sent receipt with gift and forgot to include message,"Delivery time was perfect. But well... the title says it all. They sent a receipt to the person I was gifting the card to (yes, I know it is a $50 card and they could figure it out) but the receipt had my wife's name instead of mine (and it was a gift to my dad). Then I asked that a message be included and he says he never saw it. I cannot be sure if that means it was not included - but it probably does mean it was not obvious or that it did not stand out.",NEUTRAL,NEUTRAL,NEUTRAL
+34540,34245,My opinion of a reload?,"What's to like or dislike?  You either add funds or you don't.  Amazon, you are getting paranoid and self conscious about yourself!",NEUTRAL,NEUTRAL,NEUTRAL
+34681,34385,Bad Experience,"Some of the bad experience was my fault for challenging the charge, but no one told me they were not unlocking the amount on the cards when I paid the bill.  It was an embaressment when my grandchildren tried to use them and were rejected.",NEUTRAL,NEGATIVE,NEGATIVE
+34760,34462,Great gift for grandson.,"Easy to buy, easy to ship as gift, good value.",NEUTRAL,POSITIVE,POSITIVE
+34848,34549,Three Stars,Works.,NEUTRAL,NEUTRAL,NEUTRAL
+34954,34655,the gift cards came nicely packaged.,"I was supposed to get a $5 credit for each gift card purchased (2 X $5) but I have not seen the credit. Not sure if this is an Amazon problem or the card used. Otherwise, the gift cards came nicely packaged.",NEUTRAL,NEUTRAL,NEUTRAL
+34978,34679,Easy to use,Very handy and useful,NEUTRAL,POSITIVE,POSITIVE
+35009,34710,Feel like the rebate could be explained more clearly,Otherwise it is fine.,NEUTRAL,NEUTRAL,NEUTRAL
+35216,34916,Thank you,Thank you,NEUTRAL,NEUTRAL,NEUTRAL
+35312,35012,Process is more difficult,It takes more time to load a gift card and it is much harder find. It seems that Amazon doesn't want this to happen.,NEUTRAL,NEGATIVE,NEGATIVE
+35372,35068,Three Stars,The cardboard that the card was in was in rough shape for giving as a Xmas gift.,NEUTRAL,NEUTRAL,NEUTRAL
+35373,35069,Three Stars,it is what it is,NEUTRAL,NEUTRAL,NEUTRAL
+35541,35237,Makes a nice gift,Gave as Christmas gifts to my sons and my grandchildren taped on top of a can of tri-flavored popcorn.  I do this every year and they all look forward to it.,NEUTRAL,POSITIVE,POSITIVE
+35580,35276,Fine,I would prefer the online gift cards since it takes a while to get to me I would say to make sure you give the driver specific directions so they don’t send it somewhere else.,NEUTRAL,NEUTRAL,NEUTRAL
+35619,35315,Cute packaged gift card.,Purchased as a gift for a friend.  Delivery was on time and without any damage.,NEUTRAL,POSITIVE,POSITIVE
+35680,35376,It's just what you pay for,It's just what you pay for. If you get bonus it's a plus,NEUTRAL,NEUTRAL,NEUTRAL
+35685,35381,The gift box was actually dirty,The gift box was actually dirty.  I was able to clean it up with Windex - but that should not have happened.,NEUTRAL,NEUTRAL,NEUTRAL
+35757,35453,Almost threw it in the trash! Needs better labeling on outside envelope.,"I love Amazon and shop continuously on it.  I bought a gift card for my mom for Xmas and the tracking info actually said I would get it one day earlier than the other products I ordered at the same time.  So when a non descript sealed envelope came in a box with something else I tossed it on the counter thinking it was junk mail like so many other companies send with their products.  I actually forgot about the GC as I expected it to come snail mail solo.  So this envelope sat for a few days and as I was tossing it into the recycle bin I decided to tear it open.  What to my surprise was inside but another envelope, the holiday card and gift card.  Wow was I surprised.  Since the outside envelope is just packaging it should be better labeled as to the contents.",NEUTRAL,NEUTRAL,NEUTRAL
+35834,35530,I hate paying more than value of the gift card.,This was a gift. I was told they couldn't use on Amazon towards a purchase.,NEUTRAL,NEGATIVE,NEGATIVE
+35904,35600,Mark them with an amount!!!,"The cards are blank, no amount listed...  I had to look with a magnifying glass at the codes on the receipt and again with a magnifying glass to match them up with the tiny codes on the card.  RIDICULOUS!!!  Just mark them with the $$ amount!!!!!",NEUTRAL,NEGATIVE,NEGATIVE
+35913,35609,Hard to disguise unless you wrap it.,This is a great little gift and bookmark except it’s in a slip sleeve that says on the outside it’s an Amazon gift card in big bold letters. So if you hang it on the tree It gives itself away which means you need to wrap it.,NEUTRAL,NEUTRAL,NEUTRAL
+35939,35635,I like getting an incentive to use the re-loadable gift card.,"I like getting an incentive to use the re-loadable gift card. Otherwise, what is the point?",NEUTRAL,NEUTRAL,NEUTRAL
+35964,35660,Amazon gift card,Convenient online ordering but price is the same as any other store.,NEUTRAL,NEUTRAL,NEUTRAL
+36039,35735,what I wanted,great gift,NEUTRAL,POSITIVE,POSITIVE
+36164,35859,My mistake,"I was trying to upload my gift card, but did this mistakenly.",NEUTRAL,NEUTRAL,NEUTRAL
+30260,30005,Delivered inactivated,I was so embarrassed giving my parents cards that weren’t activated for their Christmas gifts. They saved them to use on amazons cyber deals and neither card worked. Not only were the deals gone for the items they wanted but I was completely embarrassed. Had to get ahold of Amazon to get refunded.,NEGATIVE,NEGATIVE,NEGATIVE
+30261,30006,Cards were not activated,"I ordered two Visa gift cards through Amazon. One for Mother’s Day, the other for Father’s Day. My parents went to use the gift cards and they would not work. They were not activated. I called Amazon and they said all they can do is cancel them and issue me a refund. They were great about issuing me the refund, however, the gift I sent is now past. What an embarrassment. I will no longer order Visa gift cards through Amazon.",NEGATIVE,NEGATIVE,NEGATIVE
+30303,30047,your new format sucks!,Why complicate something that works just fine?,NEGATIVE,NEGATIVE,NEGATIVE
+30383,30127,Wrong card,This was supposed to be a Christmas gift for my granddaughter and it ended up being a birthday card.  what happened?,NEGATIVE,NEGATIVE,NEGATIVE
+30393,30137,Not Amazons Usual Excellence,The top ribbon was missing on the box. The gooey stuff which holds it on was still there. The main deal is the gift card inside so I'm sure the box was thrown away.,NEGATIVE,NEUTRAL,NEUTRAL
+30425,30169,Defective card,Card did not work. Called and hot automated and after 3 attempts it said it was good to go. Nope. Two grocery stores declined card,NEGATIVE,NEGATIVE,NEGATIVE
+30440,30184,thanks,thanks,NEGATIVE,NEUTRAL,NEUTRAL
+30494,30238,I paid $50 for this box and there was NO gift card,I received this box in the mail and paid $50 for you and there is NO gift card inside! What a joke! And now I cannot do anything about it. THIS IS A SCAM!!!!,NEGATIVE,NEGATIVE,NEGATIVE
+30501,30244,Gift Cards,"Gift cards were promised in one day, they took 4.  I live in phoenix, thecards had been in LA and las vegas; they could have called the order into phoenix.  If I’d known they would’ve taken so long, I could’ve driven to my closest drug store and got them.  Very dissapointed.",NEGATIVE,NEGATIVE,NEGATIVE
+30503,30246,Terrible - I won't reload anything on this system.,I have been routinely reloading my balance to use for Amazon items.  I tried it with this sytem hours ago and nothing has showed up.  Why change a system that was working?,NEGATIVE,NEGATIVE,NEGATIVE
+30512,30255,Good ideal but it should’ve been included with the card is my business not worth anything,Overpriced liked it but just overpriced $15 really,NEGATIVE,NEUTRAL,NEUTRAL
+30513,30256,Should have been included with the card $15 too much,Are use this product because I got a card it was easy and quick but the box should have been included with the card next time I might try somebody else,NEGATIVE,NEUTRAL,NEUTRAL
+30555,30296,Card did not work,"Sent this to my grandpa so he could use it for prescriptions for easy use, only to find the card did not work, anywhere.",NEGATIVE,NEGATIVE,NEGATIVE
+30558,30299,Take a note Everytime you buy something!,Was so confused to use it! I feel my money lost and I even can't to follow up with it!,NEGATIVE,NEGATIVE,NEGATIVE
+30570,30311,One Star,"Never buying Starbucks anything, ever again",NEGATIVE,NEGATIVE,NEGATIVE
+30573,30314,... of business and now I am left with a useless gift card that I can not return,Unfortunately the only Quaker in my area went out of business and now I am left with a useless gift card that I can not return.,NEGATIVE,NEGATIVE,NEGATIVE
+30578,30319,Don’t Buy - Impossible to Use,Would NOT recommend; the vendor listed on the card that I wanted to use (Ulta) does not accept split transactions. So this gift card (which needs to be used as a credit card) does not work in conjunction with another credit card. So unless you’re spending the EXACT amount listed on the card (or less) it won’t work. Waste of time and money.,NEGATIVE,NEGATIVE,NEGATIVE
+30591,30332,It stinks...it is a money grab!,I dislike the fact that it keeps reloading and it automatically charges that account which it takes out of your credit card over and above the credit card. It's a gerbil in a cage.,NEGATIVE,NEGATIVE,NEGATIVE
+30592,30333,BEWARE.read the fine print slowly and understand what your doing ( not like i did ),i  did not understand how to use or get the code to use the $$$ credited back to me so i ended up repowering over $500 dollars in charges to my Visa Card.<br />I will never choose this OPTION again.,NEGATIVE,NEGATIVE,NEGATIVE
+30594,30335,What a complete waste of money,"Why does Amazon show 4.5 stars for this gift card?  Its very hard to use at a golf course if you can find a course that will honor it.  And if you decide to use it on merchandise instead, the prices and shipping are both inflated.",NEGATIVE,NEGATIVE,NEGATIVE
+30595,30336,Useless Gift Card,"There are only a couple courses in my region that are included and making a tee time is unbelievably cumbersome.  So I decided to use the card to buy merchandise and found that the prices were outrageous and shipping was very expensive.  My son thought he was giving me a nice gift but, in reality, it was a waste of money!",NEGATIVE,NEGATIVE,NEGATIVE
+30609,30350,Why bother with this method?,"Prompted to use this feature when using a debit card I was sent as a rebate to send a gift card to myself.<br /><br />Entered all the information but couldn't get past the screen with the &#34;Reload $XX&#34; button. Obviously missing something, but no indication as to what.<br /><br />Went back to and bought the gift card, and clicked the link in the e-mail. Worked as it always had in the past.<br /><br />Perhaps this method is less costly for Amazon, but they need to make it work as simply as this gift card method.<br /><br />Update - Still one star, but figured out why it didn't work - it hits the debit card for a $1.00 authorization, then tries to process the full payment. Buying a gift card still works as expected.",NEGATIVE,NEUTRAL,NEUTRAL
+30637,30378,Can’t be used in amazon prime,"I bought this so that I can use it in buying movies from amazon prime video. However, it turns out that the gift card can’t be used there!",NEGATIVE,NEGATIVE,NEGATIVE
+30643,30384,Giftable,What’s not to like about the convenience of a gift card,NEGATIVE,POSITIVE,POSITIVE
+30660,30401,Wasn't activated.,"Given as a gift. Did not work. Felt terrible, but at least recipient let me know. Refund issued.",NEGATIVE,NEGATIVE,NEGATIVE
+30666,30407,Amazon apparently charged me but never loaded these gift cards,"First time I purchased Amazon gift cards.  They don't make it easy to check balances, and the cards don't even have the amounts written on them for gifts.  I purchased 5 cards for $10 each for teachers.  I gifted three, and had two left over.  When I just went to check balances, they each said $0.  That means that I trusted Amazon to load these gift cards before sending, they didn't, and I gave teachers $0 balance gift cards for presents.  I'm embarrassed and they didn't tell me.  No easy way to contact Amazon either to make this right.  Wouldn't buy again.",NEGATIVE,NEGATIVE,NEGATIVE
+30680,30421,Asked for message to be included and it was not,Recipient did not even know who this was from even though I specified the message to be included.,NEGATIVE,NEGATIVE,NEGATIVE
+30691,30432,Beware...these are Bogus,"These things get attached to purchases, leading you to believe they represent a rebate. Incredibly, the value is actually ""deducted"" from your purchase!! Of course, and inevitably, Amazon charges you for the amount, and it all becomes obvious...you've been had.",NEGATIVE,NEGATIVE,NEGATIVE
+30700,30441,Doesn't work!,Sent a card that doesn't work. Says it wasn't activated when purchased.,NEGATIVE,NEGATIVE,NEGATIVE
+30721,30461,WEBSITE WILL NOT ACCEPT CUSTOM GIFT CARD AMOUNTS,Frustrating lack of variable amount on gift cards.,NEGATIVE,NEGATIVE,NEGATIVE
+30742,30482,BEWARE OF THE FANDANGO CARD,"BEWARE OF THIS CARD.  I have received several of the Fandango gift cards and have yet to be able to use any.  I've checked out theatres before hand to see if they are accepted.  Several say &#34;yes&#34; but when I tried to use it, they refuse to take it.  Biggest scam around.  This card isn't even worth rating 1 star.",NEGATIVE,NEGATIVE,NEGATIVE
+30746,30486,You sold me A USED GIFT CARD,"I purchased this in June to take with me on a trip to family in Utah in late July.  I gave it to my grandson then (late July.). He tried to redeem it sometime in early/mid August, and was told it had already been redeemed.  Multiple tries by him and his Mom produced the same result.  He threw it away before I had a chance to ask him to send it back.<br /><br />I was humiliated, and of course replace it with a $50.00 check!!!  Of course, I will never, ever, ever purchase another Amazon gift card, which puts a crimp in my gift giving, since it was becoming one of my favorite things to give.  I have also told all my friends about my dismal experience.<br /><br />Please review my account and you will note that I have not been a problematic customer in any way.  BTW I had to pick a  'star' rating, so I picked one.  Of course,  it should be minus zero.",NEGATIVE,NEGATIVE,NEGATIVE
+30759,30499,Not activated,The card came and wasn’t even activated.  Amazon would not even recognize the code,NEGATIVE,NEGATIVE,NEGATIVE
+30760,30500,paid $50 for gift cars,my daughter in law went to use it today and it said there were no funds on the card.,NEGATIVE,NEGATIVE,NEGATIVE
+30776,30516,Gift card NOT ACTIVATED!!!,Purchased as a gift. Recipient called me later to let me know card was never activated. Very disappointed in Amazon. Will never purchase another gift card again!!! I purchased 2 gift cards for the same person and NEITHER ONE WERE ACTIVATED!!!!!,NEGATIVE,NEGATIVE,NEGATIVE
+30780,30520,Never,Horrible I got Different $20 $ 40 for my 9 nieces & nieces considering I had bought smaller gifts so younger ones . All came in one package no denomination tags . Total bs,NEGATIVE,NEGATIVE,NEGATIVE
+30793,30531,Awful advertising as always.  100$ Does not equal $10 back with this promotion.  LIES.,Awful advertising as always.  100$ Does not equal $10 back for a lot of people with this promotion.  LIES.,NEGATIVE,NEGATIVE,NEGATIVE
+30811,30549,Not what I expected,Not what I expected,NEGATIVE,NEGATIVE,NEGATIVE
+30825,30563,What happened to the bonus offer?,I thought there was a bonus offer when i put $100.00 or more onto my GC?  Never received it!!!!!!,NEGATIVE,NEGATIVE,NEGATIVE
+30853,30591,You guys broke it !,"The process of reloading my gift card was simple and reliable.  But now I don't know what it is does.  I use a gift card to shield my visa number from all those online vendors, but today when I tried to reload it for my purchase it didn't do the reload or even let me know what it was doing if anything.  Now I need to monitor my visa card to see what this new Amazon process did!  If this is the new process then I need to look for another online merchant to buy from.",NEGATIVE,NEGATIVE,NEGATIVE
+30870,30608,Sloooooow!,It too far to long to ship this simple gift card. Also the carrier the seller chose to use missed their own listed delivery date. This was not a good experience.,NEGATIVE,NEGATIVE,NEGATIVE
+30882,30620,Waste of time,The card wouldn’t activate at all it was a gift 5000 miles away what a waste of time fraudulent company called them just so they can tell me it’s not available,NEGATIVE,NEGATIVE,NEGATIVE
+30914,30651,ONE TIME bonus only,was anticipating the $10 bonus...did. it realize it is a ONE TIME OFFER per user,NEGATIVE,NEUTRAL,NEUTRAL
+30962,30698,Frustrating,These are cute and I've ordered them before but this time I ordered varying amounts and threw the packing slip away. You cannot determine the amount on the each card without the packing slip. That's ridiculous. The buyer should be able to see the value of the card.,NEGATIVE,NEGATIVE,NEGATIVE
+30974,30710,No Quiznos open!,Waste of money!,NEGATIVE,NEGATIVE,NEGATIVE
+30978,30714,Never received promised credit,"Amazon promised me a $10 credit for reloading my gift card balance with $100, but I never received the credit.",NEGATIVE,NEGATIVE,NEGATIVE
+31016,30751,Phony rebate offer (after big order),"The cards themselves were okay, however the day after I ordered $425 worth of cards, I received an email from Amazon stating that I could get $15 for every $50 Amazon Gift Card that I ordered. I sent them an email requesting information on how I could claim my $120 worth of gift cards ($15 x 8), but Amazon never replied. I am not happy.",NEGATIVE,NEGATIVE,NEGATIVE
+31022,30757,Not the card pictured,"As others have mentioned, some of the cards sell out early.  However, unlike everything else you can purchase on Amazon, there is no indication as to how many are left, and Amazon substitutes their generic card without warning.  While the tin is very nice, the generic gift card inside is a HUGE disappointment.",NEGATIVE,NEGATIVE,NEGATIVE
+31078,30813,I don't like being forced to reload an amount of $50 I ...,I don't like being forced to reload an amount of $50 I don't need or want at this time.,NEGATIVE,NEUTRAL,NEUTRAL
+31084,30819,New Amazon Gift Card reloading process: unexpected & time consuming.,"The previous system was very clear and easy to use. Reloading one’s Gift Card was quick and the funds were available immediately. There was no announcement or explanation for this change… a change that does not appear to make things any easier or better for the Amazon customer.<br /><br />Now, it appears we have to purchase a gift card from ACI Gift Cards, Inc. and then this Gift Card is supposed to automatically be applied to our Amazon Gift card balance in about 5 minutes… with the caveat that it may take longer.<br /><br />I started maintaining a Gift Card balance because I use Virtual Credit Cards for internet purchases. Virtual Credit Cards can only be used at one merchant. Unfortunately, Amazon can charge any given item to any one of 5 (or more) different merchants with little or no information about which merchant will be charged at the time of purchase. This means that orders with multiple items could have some item purchases rejected due to payment issues. Fixing this can delay the order process for days. Reloading the Gift Card using a Virtual Credit Card is a way to get around this problem. The only real downside is having to maintain a balance with Amazon that can only be used at Amazon.",NEGATIVE,NEUTRAL,NEUTRAL
+31107,30841,Card is poor paper quality,Been buying Amazon gift cards for years. This one was huge disappointment! I picked out the nicest looking box with card for presentation and the card inside was like cardstock and was bent up! Not the nice Christmas gift to give to someone.,NEGATIVE,NEGATIVE,NEGATIVE
+31138,30870,One Star,bought it for my dad for is one of those addicted to this coffee chain,NEGATIVE,NEGATIVE,NEGATIVE
+31202,30933,You Have Charged Me THREE TIMES For TWO Visa Card!!,I Only purchased ONE Visa Card!<br />You’ve charged me for and listed TWO!<br />This Is WRONG! Get it OFF There!! I Was DOUBLE Charged For This!!! FIX It Or I’m Reporting This FTC!<br />This Has Gone On For Entirely TOO Long! U Have 24 Hours To Make This RIGHT!<br />Dianne Fadal,NEGATIVE,NEGATIVE,NEGATIVE
+31237,30968,Where are the $25 gift cards?!  And why so much trouble with redeeming them?,"No $25 gift card listed and too many complaints about them not working.  I was thinking of giving these to all of my kids teachers, babysitter and tutor but not if I am going to get complaints that they don't work.  How embarrassing that would be - like I was regifting or something.<br /><br />A company like Amazon should absolutely do better than this with gift cards AND issue them in a more common and generous $25 gift card.",NEGATIVE,NEGATIVE,NEGATIVE
+31243,30974,Zero balance! Do not buy!!,Got a $50 gift card for my dad for Fathers Day. I’m so embarrassed and angry because he tried to use it and it shows $0 balance. Of course there’s no way to reach anyone to complain or find out how to get my money back. Don’t waste your money on this!!!!,NEGATIVE,NEGATIVE,NEGATIVE
+31296,31027,Gift card was never received,and since was a gift I didn't find out for over a year!,NEGATIVE,NEGATIVE,NEGATIVE
+31331,31062,don't recommend purchasing because the card won't work with you get ...,don't recommend purchasing because the card won't work with you get it. It will keep saying invalid pin. what a scam,NEGATIVE,NEGATIVE,NEGATIVE
+31355,31086,Do you think it is a nice gift?,I don' t think so.,NEGATIVE,NEGATIVE,NEGATIVE
+31391,31122,Garbage,Very disappointed. This case looks adorable but is not as it appears. The pop up scene does not pop up when opened. The bottom is unglued from the case and had to be stick down by hand after opening. Stupid design. Wish I'd gotten the snowflake case like I was going to.,NEGATIVE,NEGATIVE,NEGATIVE
+31393,31124,Not Activated,I ordered 2 Sonic gift cards luckily I was checking balance before gifting them because neither card was activated and were useless . So buyer beware….one star cause they won’t except no stars,NEGATIVE,NEGATIVE,NEGATIVE
+31398,31129,"They can only be used for new reservation, and cannot redeem for the 2nd month's payment",Now I am stuck with some gift card balance in my airbnb account which cannot used for my 2nd payment of my 1.5 month's stay,NEGATIVE,NEUTRAL,NEUTRAL
+31410,31141,Never again,It was done wrong and we were not given our money back,NEGATIVE,NEGATIVE,NEGATIVE
+31418,31149,Do not buy!!!,Do NOT buy these!! There’s nowhere to find out the amount it’s worth. I bought 4 cards and spent an hour with customer service trying to figure out how much they were each worth. What a mess!! How is amazon so far behind on scanning serial numbers on gift cards to find out balances?? Nowhere unless you redeem them. But they’re gifts so I’m not redeeming them!! Awful experience,NEGATIVE,NEGATIVE,NEGATIVE
+31435,31166,The course of events with money changing hands was supposed ...,"The course of events with money changing hands was supposed to have been investigated.  I have not heard back in over 3 weeks from AMAZON about what the actual problem was.  If the rating could have been lower, it would have.",NEGATIVE,NEGATIVE,NEGATIVE
+31442,31173,Not what was ADVERTISED!,"I HAVE ORDERED $450 WORTH OF GIFT CARDS, BELIEVING THAT THE DESIGNS I PICKED OUT WOULD BE PRINTED ON THE GIFT CARDS THEMSELVES. NOT SO! THE GIFT CARDS ARE UGLY BLACK WITH AN ""A"" ON THEM. THE GREETING CARD THEY ARE ATTACHED TO HAVE THE DESIGN I PICKED OUT. I ALREADY HAVE CUTE GIFT CARD HOLDERS, SO  WILL NOT BE USING THE PAPER CARDS, AND THE PLASTIC GIFT CARDS THEMSELVES, AS I SAID, ARE UGLY. VERY DISAPPOINTED!!",NEGATIVE,NEGATIVE,NEGATIVE
+31456,31185,One Star,Wont Starbucks coffee EVER AGAIN.,NEGATIVE,NEGATIVE,NEGATIVE
+31462,31191,No use for it.,I have found no use for this item.,NEGATIVE,NEGATIVE,NEGATIVE
+31474,31201,Poor quality,This gift card was printed on a flimsy piece of cardboard ! The box was ok but not the gift card . It looked like a sample! I couldn’t give this as  wedding gift so I had to keep this gift card for me & go to the store & buy another $100 gift card for the wedding present,NEGATIVE,NEGATIVE,NEGATIVE
+31477,31204,Gift Card Let Down,I requested a gift receipt (even on the order details the gift receipt is shown) be enclosed as this was a birthday gift and the recipient got the gift card with nothing enclosed.  She had no idea who the card was from and had to post on facebook to see who sent it to her....not a happy camper here!,NEGATIVE,NEGATIVE,NEGATIVE
+31490,31216,Impossible to follow the accounting.,My numbers don't jive with theirs and I seem to come up short.,NEGATIVE,NEGATIVE,NEGATIVE
+31501,31227,"No, review, didn't order",Didn't order this.  Didn't want this.,NEGATIVE,NEGATIVE,NEGATIVE
+31508,31233,The website didn't honor what I asked for.,One was supposed to be 100.00 and the other 50.00. I am pissed. This was supposed to be a special gift. It's too late now because I spent the money elsewhere thinking I got one thing and then on Christmas eve I found out I didn't get what I asked for. You better not charge my account either. I am very disappointed. very.<br /><br />This year Amazon has not been good for your words.<br />Merry Christmas. I hope everybody else's gifts came out right.,NEGATIVE,NEGATIVE,NEGATIVE
+31549,31274,Bonus offer doesn't work,"Amazon currently offers a 2% balance bonus if you reload your gift card from a debit card. But if you try to take advantage of this offer, you discover that the ""submit"" button on the offer doesn't function, at least as of this date.",NEGATIVE,NEGATIVE,NEGATIVE
+31598,31323,Never got my bonus $10,I reloaded $100 gift card today and never received bonus $10 as they advertised. Talking to customer service and they said need to escalate the issue... ugh,NEGATIVE,NEGATIVE,NEGATIVE
+31602,31327,Sucks,This new system is completely backwards.  It sucks.,NEGATIVE,NEGATIVE,NEGATIVE
+31604,31329,Buy something else,These are flimsy and cheaply made. I threw mine away.,NEGATIVE,NEGATIVE,NEGATIVE
+31611,31336,Challenging to make it better,Showed balance yet needed it applied immediately;;(,NEGATIVE,NEUTRAL,NEUTRAL
+31617,31341,Not knowing is bad,Not happy because it doesn’t give you your balance every time you login to Amazon too bad they don’t write it your balance on the card before you use it they need to get better about that,NEGATIVE,NEUTRAL,NEUTRAL
+31634,31358,It caused me to buy more than I should have and I'm not happy with my choices,I regret going for this. It caused me to buy more than I should have and I'm not happy with my choices. Restraint would have been better.,NEGATIVE,NEGATIVE,NEGATIVE
+31646,31370,The tax return service... that didn’t file taxes.,"Turbotax is a lot like McAfee virus protection; they advertise everywhere, but they’re a rotten company through and through.<br /><br />Everythings seems easy and friendly, until something actually goes wrong. I tried filing my taxes through turbotax last year—at the cost you see here—only to find out months later they filed nothing. Nada. Did they email me? Call? Contact or warn me in any way? Nope. I followed every step, paid in full, and they did... nothing.<br /><br />You had ONE job, turbotax.<br /><br />So then I made the mistake of trying to call them. For help, right? Good luck with that. Only if you pay for the highest possible service can you speak to a human being. Otherwise, it’s an automated run-around directing you to useless pre-recorded messages and urging to visit their website. I did find help online.... from other users who had also gotten screwed over by turbotax.<br /><br />Save your money. I wish I had been warned. Don’t assume popularity means quality. Like anything else, it just means they advertise more.",NEGATIVE,NEGATIVE,NEGATIVE
+31650,31374,What a Horrible Saying for a Gift Card!  For Someone Who Can't be Trusted with Cash???,"They should change this ASAP!  Sorry, but that's just stupid and insulting marketing!",NEGATIVE,NEGATIVE,NEGATIVE
+31657,31381,Don't buy this card. NO REFUNDS! Disappointed that you can't use the card directly at the theater,Disappointed that you can't use the card directly at the theater. The tickets have to be purchased online and Fandango charges a processing charge. Don't buy.,NEGATIVE,NEGATIVE,NEGATIVE
+31690,31414,It should be more specific.,I was trying to add a gift card and your reload came up and caused me to accidentally load 50 from my Visa card.,NEGATIVE,NEUTRAL,NEUTRAL
+31707,31431,Quality control sleeping,This is what I got.,NEGATIVE,NEGATIVE,NEGATIVE
+31759,31482,Gift card reload,Did not want item order by mistake,NEGATIVE,NEGATIVE,NEGATIVE
+31761,31484,The recipient did not know who the gift came from,I called my friend to see if they received my gift card and they said they did not. Then I described it to her and she said she got a gift card but there was no indication as to who sent it. If I didn't call her she would have never known it was from me. This is totally unacceptable.,NEGATIVE,NEGATIVE,NEGATIVE
+31792,31515,Erased remaining balance after first use,"I bought a $50 gift card during a sale, and checked the balance online before I used it to make sure the full amount was showing up. No problems, everything looked fine. My first use, however, was for a $25 order, but as soon as it went through, my card balance went to $0. The cashier and manager double checked that it had only processed once on their end, so it was clearly something off about the card. I tried checking again on the firehouse subs website and got an error message. Too late to try to return it, but amazon did give me promotional credit to make up for it, thankfully. I'll still probably avoid buying any physical gift cards from ACLI, although I see others that had good experiences, so hopefully it's not a common problem.",NEGATIVE,NEUTRAL,NEUTRAL
+31795,31518,Buyer beware!!,Bought this gift card for my step daughter because we weren't going to see her until after Christmas. I found out today that she tried to use the gift card and it was never activated. This was a $75 gift card. What a scam!!!,NEGATIVE,NEGATIVE,NEGATIVE
+31799,31521,It's a RIP off!,Do not buy.  It is so hard just to redeem this gift card.  Not worth the money at all.  The best way is to just give the money as a gift in a card.,NEGATIVE,NEGATIVE,NEGATIVE
+31803,31525,Only order one at a time,Can’t find amount of gift card.,NEGATIVE,NEUTRAL,NEUTRAL
+31810,31532,Destroyed,My gift card for my husband as a GIFT came bent up. It's not plastic it's paper . It better work when he goes to the store.,NEGATIVE,NEGATIVE,NEGATIVE
+31837,31559,Very Disappointed,My son was unable to use this.  It was a Christmas gift.,NEGATIVE,NEGATIVE,NEGATIVE
+31848,31570,Do not trust!,"I purchased this $50 JC Penney gift card. When I checked the balance on it before going to the store, the online balance inquiry didn't recognize the card number. So I called the JC Penney gift card balance phone line and they told me it was either &#34;inactive or expired.&#34; I went through the Amazon contact us - call me process and was told I had to call JC Penney to activate it! I called JC Penney balance inquiry line again, this time speaking to a human (more or less) and was told that the original purchaser (Amazon) should have had the card activated on point of purchase and that the only way that I could have the card activated would be for Amazon to prove to JC Penney that they had purchased it. In other words, I'm being sent in a revolving door where Amazon & JC Penney need to speak to one another and where I can do nothing but sit back and hope for the best? I've since contacted Amazon again, this time via email, and well, the &#34;best&#34; is that I sit back and wait for a refund. This is really all wrong.",NEGATIVE,NEGATIVE,NEGATIVE
+31862,31584,Not as expected,"Wanted to use a reload to add funds when I didn't have enough for the $25 requirement to avoid shipping charges, but the reload is not a qualifying item. Why not? You eventually get the money anyway when it is spent.",NEGATIVE,NEUTRAL,NEUTRAL
+31863,31585,No e-gift card option,How in 2019 does Kohl’s not have an e-gift card option? Unreal....,NEGATIVE,NEGATIVE,NEGATIVE
+31880,31602,Not happy!,"Super unhappy! My daughters purse was stolen last week, so I sent her this card to her, she went to use it today, and it was declined.",NEGATIVE,NEGATIVE,NEGATIVE
+31885,31607,Not for sending by mail.,Attractive way to give a gift card. Thickness makes it open for postal theft.,NEGATIVE,NEUTRAL,NEUTRAL
+31893,31615,DO NOT BUT SCAM,"SCAM SCAM SCAM SCAM. I register both of my cards online like the back of the card asked me to. I activated them and I created my PIN #. Card CAN'T be used ANYPLACE. No restaurants, food shopping, inline orders every merchant declines the purchase even though my card balance on the cards website says the balance is 100.00.",NEGATIVE,NEGATIVE,NEGATIVE
+31925,31646,Amazon does not stand behind them,I bought 10 for Christmas gifts only 3 were cashable I am having to go third party now to try to get money or find out why u can't use them. This is not right,NEGATIVE,NEGATIVE,NEGATIVE
+31926,31647,A fraud!,"For 48 hrs I have tried to check the balance or register this card - won’t work online, says to call customer service, call that and most of the time it says the system is down, finally get thru and only automated system which says it can’t find the card number.  No human to talk to.  Now trying to see if I can get my $200 back from Amazon!!!!  Even worse I gave a bunch of these cards in smaller denominations as gifts and I’m so embarrassed that I may have given fraudulent gifts.",NEGATIVE,NEGATIVE,NEGATIVE
